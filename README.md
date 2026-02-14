@@ -20,3 +20,6 @@ Python, LangChain
 
 ## Status
 Project code will be uploaded soon.
+
+pip install -r requirements.txt
+streamlit run app.py
