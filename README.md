@@ -21,5 +21,8 @@ Python, LangChain
 ## Status
 Project code will be uploaded soon.
 
+## Run Locally
+
+```bash
 pip install -r requirements.txt
 streamlit run app.py
